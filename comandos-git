@@ -1,0 +1,10 @@
+# Mis primeros comandos Git
+
+Algunos comandos útiles:
+- `git init` → inicia un nuevo repositorio
+- `git status` → muestra los cambios pendientes
+- `git add .` → agrega todos los archivos al commit
+- `git commit -m "mensaje"` → guarda un punto de versión
+- `git push` → sube los cambios a GitHub
+
+
