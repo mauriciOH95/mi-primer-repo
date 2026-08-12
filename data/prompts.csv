@@ -1,0 +1,6 @@
+prompt_id,category,text,target_accent,notes
+P001,conversation,"Perfecto, te lo envío mañana.",neutral_latam,baseline conversational sample
+P002,numbers_dates,"La reunión quedó programada para el miércoles 23 de septiembre a las 3:45 p. m.",neutral_latam,tests dates and time
+P003,currency_numbers,"El monto total asciende a mil trescientos cuarenta y siete soles con cincuenta y ocho céntimos.",neutral_latam,tests numeric phrasing
+P004,question_prosody,"¿Entonces quieres decir que todavía no han procesado el reembolso?",neutral_latam,tests interrogative intonation
+P005,proper_names,"Miguel viajó desde Guadalajara hasta Ciudad de México el miércoles pasado.",neutral_latam,tests place names
